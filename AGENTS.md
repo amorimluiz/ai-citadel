@@ -104,6 +104,7 @@ Fluxo padrão para qualquer task não-trivial:
 5. **Testar** — `_test.go` ao lado; rode `go test ./...` e `go vet ./...`.
 6. **Validar** — antes de declarar "done", confira `<anti-patterns>` e o limite de 150 linhas.
 7. **Commit** — mensagens curtas, imperativas, escopo claro (ex.: `workspace: idempotent worktree create`).
+8. **GitHub** — use `gh` CLI para qualquer interação com o repositório remoto deste projeto (abrir PR, checar logs de CI, comentários de review, issues).
 </workflow>
 
 <anti-patterns-summary>

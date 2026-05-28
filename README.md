@@ -69,4 +69,4 @@ A configuração canônica para agentes de IA operando neste repositório está 
 
 ## Licença
 
-MIT — ver [`LICENSE`](LICENSE).
+GPL-3.0 — ver [`LICENSE`](LICENSE).
